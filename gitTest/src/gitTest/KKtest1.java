@@ -6,6 +6,7 @@ public class KKtest1 {
 
 		System.out.println("KKTest1");
 		System.out.println("KKTest2");
+		System.out.println("KKTest3");
 		
 	}
 
